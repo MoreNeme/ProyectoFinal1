@@ -1,0 +1,10 @@
+educacion css
+.row{
+    padding: 40px;
+}
+div{
+    background: #a1b5cb; 
+}
+h1,h3{
+    display: inline;
+}
